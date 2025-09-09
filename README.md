@@ -1,12 +1,30 @@
-# React + Vite
+# 🌤️ Weather Now  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-18-blue?logo=react)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.0-38bdf8?logo=tailwindcss)  
+![OpenWeather](https://img.shields.io/badge/API-OpenWeatherMap-orange?logo=icloud)  
+![License](https://img.shields.io/badge/License-MIT-green)  
 
-Currently, two official plugins are available:
+A simple and modern weather app built with **React** + **Tailwind CSS**, powered by the [OpenWeatherMap API](https://openweathermap.org/api).  
+Get **real-time weather updates**, search by city, or use your **current location**.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features  
+- 🔍 **Search weather** by city name  
+- 📍 **Get weather by current location** (with geolocation permission)  
+- ⏱ **Auto-refresh every 60 seconds** for real-time updates  
+- 🌡️ Shows **temperature, feels-like, min/max temp, humidity, wind speed**  
+- 🌤️ Dynamic **weather icons** from OpenWeatherMap  
+- 🎨 **Modern responsive UI** with Tailwind CSS  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Screenshots  
+
+![ss](https://github.com/user-attachments/assets/b941afad-868c-41ad-b5ae-1022ee48ee21)
+![ss2](https://github.com/user-attachments/assets/4dd246b1-7fa4-4c55-bbbe-51490d6c54dd)
+
+
+
+
